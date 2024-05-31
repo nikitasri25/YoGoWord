@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YoGoWord/static/css/main.dc4d6ff2.css",
+    "main.js": "/YoGoWord/static/js/main.eebd3e5a.js",
+    "static/js/453.ed3810f9.chunk.js": "/YoGoWord/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/YoGoWord/index.html",
+    "main.dc4d6ff2.css.map": "/YoGoWord/static/css/main.dc4d6ff2.css.map",
+    "main.eebd3e5a.js.map": "/YoGoWord/static/js/main.eebd3e5a.js.map",
+    "453.ed3810f9.chunk.js.map": "/YoGoWord/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.eebd3e5a.js"
+  ]
+}
